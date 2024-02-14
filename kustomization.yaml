@@ -6,5 +6,7 @@ resources:
 images:
 - name: ghcr.io/kyleee0522/springboot_crud_security
   newTag: "20240214080109"
+- name: ghcr.io/ujeongeom/springboot_crud_security
+  newTag: "20240214092237"
 - name: hoooo/back_0131_v1
   newTag: v1
