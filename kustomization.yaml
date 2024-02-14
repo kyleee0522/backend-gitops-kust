@@ -4,5 +4,7 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
+- name: ghcr.io/kyleee0522/springboot_crud_security
+  newTag: "20240214075711"
 - name: hoooo/back_0131_v1
-  newTag: "v1"
+  newTag: v1
