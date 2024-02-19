@@ -4,6 +4,8 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
+- name: ghcr.io/kyleee0522/springboot_crud_security_key
+  newTag: "latest"
 - name: ghcr.io/kyleee0522/springboot_crud_security
   newTag: "20240214080109"
 - name: ghcr.io/ujeongeom/springboot_crud_security
